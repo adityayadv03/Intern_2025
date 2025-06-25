@@ -7,7 +7,7 @@ from ultralytics import RTDETR
 # === Settings ===
 VIDEO_PATH = "" #Input Video Path
 MODEL_PATH = "rtdetr-l.pt"
-OUTPUT_PATH = "" #Path to Save the Output Video
+OUTPUT_PATH = "" #Path to Save Output Video
 WINDOW_WIDTH = 1920
 WINDOW_HEIGHT = 1080
 
